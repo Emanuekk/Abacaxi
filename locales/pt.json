@@ -1,0 +1,62 @@
+{
+	"lang": {
+		"newLang": "Você selecionou uma nova linguagem para o servidor a partir de agora!",
+		"noAdm": "Você não pode alterar a linguagem do servidor, pois não tem permissão de Administrador!"
+	},
+	"user": {
+		"disc": "Entrou no Discord:",
+		"serv": "Entrou no Servidor:",
+		"nick": "Também conhecido por: **{{nickname}}**"
+	},
+	"ping": "Seu ping atual para o bot é **{{ping}}ms** 🛰️",
+	"help": {
+		"menu": "**Olá, meu prefixo é $**\n*You can change the language using* **$lang**",
+		"select": "Selecione o menu desejado para os comandos abaixo:",
+		"bar":"Selecione o tipo de comando aqui",
+		"utilization":"<> - OBRIGATÓRIOS\n[] - OPCIONAIS\n",
+		"inicio":{
+			"label": "Painel inicial",
+            "description": "Apenas o painel inicial do 'help'"
+		},
+		"musica":{
+			"label": "Musica",
+            "description": "Lista todos os comandos de música padrão",
+			"title":"**Comandos de Música**"
+		},
+		"utilidades":{
+			"label": "Utilidades",
+            "description": "Lista os comandos gerais do bot",
+			"title":"**Comandos de Utilidades**"
+		},
+		"atividades":{
+			"label": "Discord Activies",
+            "description": "Lista todos os comandos do Discord Activities",
+			"title":"**Comandos de Activities**",
+			"des":"Você deve estar em um canal de voz para que os convites sejam criados\n\nInfelizmente isso ainda não está disponivel o celular!"
+		},
+		"play": "Toca a música pedida (por link ou nome)",
+		"stop": "Para de tocar música e se desconecta",
+		"nowplaying": "Mostra a música atual",
+		"skip": "Pula a música atual",
+		"back": "Volta a tocar a musica anterior",
+		"seek": "Retorna a música ao tempo solicitado",
+		"pause": "Pausa a música",
+		"resume": "Continua a reprodução",
+		"search": "Busca músicas, apresentado resultados e colhendo a resposta",
+		"shuffle": "Embaralha sua playlist atual",
+		"queue": "Mostra a sua lista atual",
+		"loop": "Coloca a fila, ou música atual em loop",
+		"clear": "Limpa a sua fila",
+		"coinflip": "Joga uma moeda, cara ou coroa?",
+		"roll": "Um comando de rolagens",
+		"about": "Mostra informações sobre o bot e autor",
+		"copypasta": "Manda alguma copypasta aleatória",
+		"feedback": "Envia um feedback ou bug report ao dev",
+		"user": "Mostra as informações gerais de um usuário",
+		"ping": "Mostra a latência atual para o bot",
+		"help": "Mostra um comando de ajuda, pera, quê?",
+		"ppt": "Joga 'pedra papel tesoura' com o bot, juro que é aleatório!",
+		"avatar": "Mostra o avatar de alguém, com link para baixa-lo"
+	},
+	"ppt": "Por favor, especifique pedra, papel ou tesoura após o comando"
+}

@@ -1,0 +1,62 @@
+{
+	"lang": {
+		"newLang": "You have selected one new language for the server from now on!",
+		"noAdm": "You can't change the server language as you don't have Administrator permission!"
+	},
+	"user": {
+		"disc": "Join at Discord:",
+		"serv": "Join at Server:",
+		"nick": "Also Known As: **{{nickname}}**"
+	},
+	"ping": "Your current ping to the bot is **{{ping}}ms** 🛰️",
+	"help": {
+		"menu": "**Hi, my prefix is: $**\n*Você pode mudar minha linguagem usando* **$lang**",
+		"select": "Select the desired menu for the commands below:",
+		"bar":"Select command type here",
+		"utilization":"<> - MANDATORY\n[] - OPTIONAL\n",
+		"inicio":{
+			"label": "Home Panel",
+            "description": "Only the 'help' home panel"
+		},
+		"musica":{
+			"label": "Music",
+            "description": "Lists all default music commands",
+			"title":"**Music Commands**"
+		},
+		"utilidades":{
+			"label": "Utilities",
+            "description": "List general bot commands",
+			"title":"**Utilities Commands**"
+		},
+		"atividades":{
+			"label": "Discord Activies",
+            "description": "List all Discord Activities commands",
+			"title":"**Activities Commands**",
+			"des":"You must be on a voice channel for invitations to be created\n\nUnfortunately this is not yet available on mobile!"
+		},
+		"play": "Plays the requested song (by link or name)",
+		"stop": "Stop playing music and disconnect",
+		"nowplaying": "Show current song",
+		"skip": "Skip current song",
+		"back": "Play the previous song again",
+		"seek": "Returns the song to the requested time",
+		"pause": "Pause the music",
+		"resume": "Continue playback",
+		"search": "Searching for songs, displaying results and collecting the answer",
+		"shuffle": "Shuffles your current playlist",
+		"queue": "Show your current list",
+		"loop": "Loop the queue, or current song",
+		"clear": "Clear your queue",
+		"coinflip": "Toss a coin, heads or tails?",
+		"roll": "A rolling command",
+		"about": "Show information about the bot and author",
+		"copypasta": "Send some random copypasta",
+		"feedback": "Send a feedback or bug report to the dev",
+		"user": "Shows general information for a user",
+		"ping": "Shows the current latency for the bot",
+		"help": "Show a help command, wait, what?",
+		"ppt": "Play 'rock paper scissors' with the bot, I swear it's random!",
+		"avatar": "Shows someone's avatar, with a download link"
+	},
+	"ppt": "Please specify rock, paper or scissors after command"
+}
